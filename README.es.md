@@ -64,7 +64,9 @@ La grilla semanal de torneos del equipo, tomada de su hoja de cálculo.
 
 ## Hecho con
 
-C# y .NET 10 en el servidor, React y TypeScript en la interfaz, SQLite como base de datos y Ollama para el modelo local. Corre entero en mi computadora, con tema claro y oscuro.
+Lo construí orquestando agentes de IA (Claude Code y Gemini), al estilo *vibe coding*: defino lo que hace la app y sus reglas, los agentes escriben el código, y yo lo reviso y pruebo en el uso diario.
+
+Por debajo: C# y .NET 10 en el servidor, React y TypeScript en la interfaz, SQLite como base de datos y Ollama para el modelo local. Corre entero en mi computadora, con tema claro y oscuro.
 
 ---
 

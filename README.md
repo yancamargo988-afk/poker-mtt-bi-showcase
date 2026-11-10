@@ -64,7 +64,9 @@ A grade semanal de torneios do time, puxada da planilha dele.
 
 ## Feito com
 
-C# e .NET 10 no servidor, React e TypeScript na interface, SQLite como banco e Ollama para o modelo local. Roda inteiro no meu computador, com tema claro e escuro.
+Construí orquestrando agentes de IA (Claude Code e Gemini), no estilo *vibe coding*: eu defino o que o app faz e as regras, os agentes escrevem o código, e eu confiro e testo no uso de todo dia.
+
+Por baixo: C# e .NET 10 no servidor, React e TypeScript na interface, SQLite como banco e Ollama para o modelo local. Roda inteiro no meu computador, com tema claro e escuro.
 
 ---
 

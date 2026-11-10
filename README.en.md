@@ -64,7 +64,9 @@ The team's weekly tournament schedule, pulled from the team's spreadsheet.
 
 ## Built with
 
-C# and .NET 10 on the server, React and TypeScript for the interface, SQLite as the database and Ollama for the local model. It runs entirely on my computer, with light and dark themes.
+I built it by orchestrating AI agents (Claude Code and Gemini), *vibe coding* style: I define what the app does and its rules, the agents write the code, and I check and test it in daily use.
+
+Under the hood: C# and .NET 10 on the server, React and TypeScript for the interface, SQLite as the database and Ollama for the local model. It runs entirely on my computer, with light and dark themes.
 
 ---
 
