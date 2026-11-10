@@ -171,7 +171,7 @@ Yo dirijo y reviso; agentes de código (Claude Code y Gemini) implementan. El pr
 
 ## Sobre mí
 
-Hecho por **Yan Camargo**, estudiante de Ciencias de la Computación. Lo uso todos los días, y es la base de un producto que pienso ofrecer a otros jugadores y equipos.
+Hecho por **Yan Camargo** (Ciencias de la Computación · Uninter). Lo uso todos los días, y es la base de un producto que pienso ofrecer a otros jugadores y equipos.
 
 El código no es abierto. Si quieres verlo funcionando o conversar sobre él, contáctame por [mi perfil](https://github.com/yancamargo988-afk).
 

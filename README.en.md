@@ -171,7 +171,7 @@ I direct and review; coding agents (Claude Code and Gemini) do the implementatio
 
 ## About
 
-Built by **Yan Camargo**, a Computer Science student. I use it every day, and it is the base of a product I plan to offer to other players and teams.
+Built by **Yan Camargo** (Computer Science · Uninter). I use it every day, and it is the base of a product I plan to offer to other players and teams.
 
 The code is not open. If you want to see it running or talk about it, reach me through [my profile](https://github.com/yancamargo988-afk).
 

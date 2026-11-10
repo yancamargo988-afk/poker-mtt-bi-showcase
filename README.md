@@ -171,7 +171,7 @@ Eu oriento e reviso; agentes de código (Claude Code e Gemini) executam. O proce
 
 ## Sobre
 
-Feito por **Yan Camargo**, estudante de Ciência da Computação. Uso o sistema todos os dias, e ele é a base de um produto que pretendo oferecer a outros jogadores e times.
+Feito por **Yan Camargo** (Ciência da Computação · Uninter). Uso o sistema todos os dias, e ele é a base de um produto que pretendo oferecer a outros jogadores e times.
 
 O código não é aberto. Se quiser ver o projeto rodando ou conversar sobre ele, fale comigo pelo [meu perfil](https://github.com/yancamargo988-afk).
 
